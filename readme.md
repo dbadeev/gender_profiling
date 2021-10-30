@@ -8,7 +8,7 @@ alt="Видеоотчет" width="240" height="180" border="10" /></a>
   
 ##  
 
-## Основные результаты
+## Основные результаты и сравнение
 
 
                                     One-genre Gender Detection (Russian)
