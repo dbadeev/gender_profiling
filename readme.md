@@ -52,9 +52,4 @@ alt="Видеоотчет" width="240" height="180" border="10" /></a>
 | Bhargava et al [r3]      | 2017            | PAN FIRE ’17 [d8]<br>(Twitter - training) | POS, rule-based classification                            | LSTM, Bi-LSTM     | Gender imitation | 0.6596 |
 | LDR [d12]                | 2017            | PAN FIRE ’17 [d8]<br>(Twitter - training) | stylometric analysis                                      |                   | Gender imitation | 0.6383 |
 
-##
-
-### Отчет о проекте
-<a href="https://paper.dropbox.com/doc/Gender-Profiling-in-Social-Network--BP2ohluKRa02VZ1Ob0MZjSuxAg-SMGmfj5PZC3b9P9Uvx6jm" target="_blank"><img src="https://github.com/dbadeev/gender_profiling/blob/main/images/gender_profiling_report.png" 
-alt="Отчет о проекте" width="240" height="180" border="10" /></a>
 
