@@ -1,6 +1,7 @@
-# Одножанровое и многожанровое гендерное профилирование авторов по набору текстов соцсетей
+# Gender Profiling in Social Network
 
-## Питч-видеоотчет ##
+
+## Pitch video report (in Russian) ##
 
 <a href="https://disk.yandex.ru/i/bnDQcSYbAYV_mw" target="_blank"><img src="https://github.com/dbadeev/gender_profiling/blob/main/images/gender_profiling.png" 
 alt="Видеоотчет" width="240" height="180" border="10" /></a>
@@ -8,7 +9,7 @@ alt="Видеоотчет" width="240" height="180" border="10" /></a>
   
 ##  
 
-## Основные результаты и сравнение
+## Main results and comparison with other works
 
 
                                     One-genre Gender Detection (Russian)
